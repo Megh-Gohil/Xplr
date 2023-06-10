@@ -6,3 +6,4 @@ json_data folder contains all the eventbrite events gathered on 09/06/23 in json
 google_mapsbs.py can be used to gather data from google maps, just paste the link of the search page with the keyword and change save location.
 ---
 scrapped_data folder has all the data scrapped till now.
+---
