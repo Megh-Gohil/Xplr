@@ -1,0 +1,62 @@
+{
+    "pagination": {
+        "object_count": 1,
+        "continuation": null,
+        "page_count": 1,
+        "page_size": 10,
+        "has_more_items": false,
+        "page_number": 1
+    },
+    "events": [
+        {
+            "timezone": "Asia/Kolkata",
+            "id": "641306624377",
+            "privacy_setting": "unlocked",
+            "tickets_by": "Eventbrite",
+            "primary_organizer_id": "18037410182",
+            "tickets_url": "https://www.eventbrite.com/checkout-external?eid=641306624377",
+            "hide_end_date": false,
+            "start_date": "2023-06-17",
+            "end_time": "17:00",
+            "status": "live",
+            "_type": "destination_event",
+            "end_date": "2023-06-17",
+            "tags": [
+                {
+                    "prefix": "EventbriteSubCategory",
+                    "tag": "EventbriteSubCategory/15001",
+                    "display_name": "Education"
+                },
+                {
+                    "prefix": "EventbriteCategory",
+                    "tag": "EventbriteCategory/115",
+                    "display_name": "Family & Education",
+                    "localized": {
+                        "display_name": "Family & Education"
+                    }
+                },
+                {
+                    "prefix": "EventbriteFormat",
+                    "tag": "EventbriteFormat/2",
+                    "display_name": "Seminar or Talk"
+                }
+            ],
+            "eventbrite_event_id": "641306624377",
+            "start_time": "10:00",
+            "series_id": null,
+            "image_id": "527737939",
+            "is_protected_event": false,
+            "is_cancelled": null,
+            "primary_venue_id": "155941859",
+            "checkout_flow": "widget",
+            "name": "iSC Talks 8.0",
+            "language": "en-us",
+            "url": "https://www.eventbrite.com/e/isc-talks-80-tickets-641306624377",
+            "hide_start_date": false,
+            "summary": "Meet the world’s top STUDY ABROAD EXPERTS in one event",
+            "is_online_event": false,
+            "eid": "egzrdczm",
+            "published": "2023-05-23T13:34:34Z"
+        }
+    ]
+}

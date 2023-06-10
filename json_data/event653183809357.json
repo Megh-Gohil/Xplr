@@ -1,0 +1,172 @@
+{
+    "pagination": {
+        "object_count": 1,
+        "continuation": null,
+        "page_count": 1,
+        "page_size": 10,
+        "has_more_items": false,
+        "page_number": 1
+    },
+    "events": [
+        {
+            "saves": {
+                "saved_by_you": false
+            },
+            "event_sales_status": {
+                "start_sales_date": {
+                    "timezone": "Asia/Kolkata",
+                    "local": "2023-06-08T00:00:00",
+                    "utc": "2023-06-07T18:30:00Z"
+                },
+                "default_message": null,
+                "sales_status": "on_sale",
+                "currency": "USD",
+                "message_code": null,
+                "message": null,
+                "message_type": null
+            },
+            "timezone": "Asia/Kolkata",
+            "id": "653183809357",
+            "privacy_setting": "unlocked",
+            "tickets_by": "Eventbrite",
+            "primary_organizer_id": "66991147283",
+            "tickets_url": "https://www.eventbrite.com/checkout-external?eid=653183809357",
+            "hide_end_date": false,
+            "start_date": "2023-07-18",
+            "end_time": "22:00",
+            "status": "live",
+            "_type": "destination_event",
+            "public_collections": {
+                "creator_collections": {
+                    "object_count": 0,
+                    "collections": []
+                }
+            },
+            "ticket_availability": {
+                "is_sold_out": false,
+                "is_free": true,
+                "minimum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                },
+                "has_available_tickets": true,
+                "maximum_ticket_price": {
+                    "currency": "USD",
+                    "major_value": "0.00",
+                    "value": 0,
+                    "display": "0.00 USD"
+                }
+            },
+            "end_date": "2023-07-18",
+            "tags": [
+                {
+                    "prefix": "EventbriteSubCategory",
+                    "tag": "EventbriteSubCategory/5999",
+                    "display_name": "Other"
+                },
+                {
+                    "prefix": "EventbriteCategory",
+                    "tag": "EventbriteCategory/105",
+                    "display_name": "Performing & Visual Arts",
+                    "localized": {
+                        "display_name": "Performing & Visual Arts"
+                    }
+                },
+                {
+                    "prefix": "EventbriteFormat",
+                    "tag": "EventbriteFormat/5",
+                    "display_name": "Festival or Fair"
+                },
+                {
+                    "_type": "tag",
+                    "tag": "OrganizerTag/dance",
+                    "display_name": "dance",
+                    "prefix": "OrganizerTag"
+                },
+                {
+                    "_type": "tag",
+                    "tag": "OrganizerTag/music",
+                    "display_name": "music",
+                    "prefix": "OrganizerTag"
+                },
+                {
+                    "_type": "tag",
+                    "tag": "OrganizerTag/art",
+                    "display_name": "art",
+                    "prefix": "OrganizerTag"
+                },
+                {
+                    "_type": "tag",
+                    "tag": "OrganizerTag/culture",
+                    "display_name": "culture",
+                    "prefix": "OrganizerTag"
+                },
+                {
+                    "_type": "tag",
+                    "tag": "OrganizerTag/sports",
+                    "display_name": "sports",
+                    "prefix": "OrganizerTag"
+                }
+            ],
+            "eventbrite_event_id": "653183809357",
+            "start_time": "19:00",
+            "primary_venue": {
+                "_type": "destination_venue",
+                "name": "St. Xavier's College (Autonomous)",
+                "venue_profile_id": null,
+                "address": {
+                    "city": "Mumbai",
+                    "country": "IN",
+                    "region": "MH",
+                    "longitude": "72.8311496",
+                    "localized_address_display": "5 Mahapalika Marg, Mumbai, MH 400001",
+                    "postal_code": "400001",
+                    "address_1": "5 Mahapalika Marg",
+                    "address_2": "",
+                    "latitude": "18.9425509",
+                    "localized_multi_line_address_display": [
+                        "5 Mahapalika Marg",
+                        "Mumbai, MH 400001"
+                    ],
+                    "localized_area_display": "Mumbai, MH"
+                },
+                "venue_profile_url": "",
+                "id": "158531619"
+            },
+            "primary_organizer": {
+                "_type": "destination_profile",
+                "num_upcoming_events": null,
+                "name": null,
+                "profile_type": "organizer",
+                "num_followers": 1,
+                "url": "https://www.eventbrite.com/o/66991147283",
+                "twitter": null,
+                "summary": null,
+                "num_saves": null,
+                "image_id": null,
+                "followed_by_you": false,
+                "facebook": null,
+                "num_collections": null,
+                "id": "66991147283",
+                "website_url": null,
+                "num_following": null
+            },
+            "series_id": null,
+            "image_id": null,
+            "is_protected_event": false,
+            "is_cancelled": null,
+            "primary_venue_id": "158531619",
+            "checkout_flow": "widget",
+            "name": "Malhar Fest",
+            "language": "en-us",
+            "url": "https://www.eventbrite.com/e/malhar-fest-tickets-653183809357",
+            "hide_start_date": false,
+            "summary": null,
+            "is_online_event": false,
+            "eid": "ehcxggkt",
+            "published": "2023-06-07T19:10:12Z"
+        }
+    ]
+}
